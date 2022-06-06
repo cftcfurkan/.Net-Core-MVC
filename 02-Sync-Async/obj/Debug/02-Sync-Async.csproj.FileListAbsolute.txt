@@ -1,0 +1,11 @@
+C:\Users\FURKAN\Desktop\GerekliBilgilerDelegeler\02-Sync-Async\bin\Debug\02-Sync-Async.exe.config
+C:\Users\FURKAN\Desktop\GerekliBilgilerDelegeler\02-Sync-Async\bin\Debug\02-Sync-Async.exe
+C:\Users\FURKAN\Desktop\GerekliBilgilerDelegeler\02-Sync-Async\bin\Debug\02-Sync-Async.pdb
+C:\Users\FURKAN\Desktop\GerekliBilgilerDelegeler\02-Sync-Async\obj\Debug\02-Sync-Async.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\GerekliBilgilerDelegeler\02-Sync-Async\obj\Debug\02-Sync-Async.csproj.SuggestedBindingRedirects.cache
+C:\Users\FURKAN\Desktop\GerekliBilgilerDelegeler\02-Sync-Async\obj\Debug\_02_Sync_Async.Form1.resources
+C:\Users\FURKAN\Desktop\GerekliBilgilerDelegeler\02-Sync-Async\obj\Debug\_02_Sync_Async.Properties.Resources.resources
+C:\Users\FURKAN\Desktop\GerekliBilgilerDelegeler\02-Sync-Async\obj\Debug\02-Sync-Async.csproj.GenerateResource.cache
+C:\Users\FURKAN\Desktop\GerekliBilgilerDelegeler\02-Sync-Async\obj\Debug\02-Sync-Async.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\GerekliBilgilerDelegeler\02-Sync-Async\obj\Debug\02-Sync-Async.exe
+C:\Users\FURKAN\Desktop\GerekliBilgilerDelegeler\02-Sync-Async\obj\Debug\02-Sync-Async.pdb
