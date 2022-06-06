@@ -1,0 +1,7 @@
+C:\Users\FURKAN\Desktop\GerekliBilgilerDelegeler\03-ActionDelegeler\bin\Debug\03-ActionDelegeler.exe.config
+C:\Users\FURKAN\Desktop\GerekliBilgilerDelegeler\03-ActionDelegeler\bin\Debug\03-ActionDelegeler.exe
+C:\Users\FURKAN\Desktop\GerekliBilgilerDelegeler\03-ActionDelegeler\bin\Debug\03-ActionDelegeler.pdb
+C:\Users\FURKAN\Desktop\GerekliBilgilerDelegeler\03-ActionDelegeler\obj\Debug\03-ActionDelegeler.csproj.SuggestedBindingRedirects.cache
+C:\Users\FURKAN\Desktop\GerekliBilgilerDelegeler\03-ActionDelegeler\obj\Debug\03-ActionDelegeler.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\GerekliBilgilerDelegeler\03-ActionDelegeler\obj\Debug\03-ActionDelegeler.exe
+C:\Users\FURKAN\Desktop\GerekliBilgilerDelegeler\03-ActionDelegeler\obj\Debug\03-ActionDelegeler.pdb
