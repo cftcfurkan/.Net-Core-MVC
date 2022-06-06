@@ -1,0 +1,58 @@
+﻿@*@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>*@
+
+
+@{
+    int age = 27;
+    string value = string.Empty;
+    if(age > 18)
+    {
+        value = "Yaşı 18den büyük";
+
+    }
+    else
+    {
+        value = "yaşı 18den küçük";
+
+    }
+}
+
+<p>
+    Yaş Durumu : @value;
+</p>
+
+@*üstteki kodun kolay yolu*@
+
+<p>
+    Yaş Durumu = @(age>18?"yaşı 18den büyük":"yaşı 18den küçük");
+</p>
+
+@{
+
+    int Calculate(int number1,int number2)
+    {
+        return number1 + number2;
+    }
+    var result = Calculate(1, 2);
+
+}
+<p>
+    Toplam = @result
+</p>
+
+@{
+    List<string> names = new() { "Furkan", "Buse", "Ahmet", "Mehmet" };
+
+    foreach(var item in names)
+    {
+        <p>
+            @(item == "Furkan"?"Furkan Çiftci":item)
+        </p>
+    }   
+}
