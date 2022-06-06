@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lgmdp7Aa7lsmhZ9qDywl67zJbGoSs6fTGdBAWWmpeHF8gbooJQOGLQ2VSeTMWHyQ1JSt+V5dqdohgE7jVgnSdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FURKAN\\Desktop\\Udemy-.NetCore\\01-Delege\\01-Delege.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FURKAN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
